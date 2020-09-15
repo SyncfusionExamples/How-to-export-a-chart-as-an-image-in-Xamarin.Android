@@ -1,4 +1,4 @@
-# how-to-content-for-Export-chart-as-image-n-Xamarin.Android
+# how-to-export-Export-a-chart-as-an-image-in-Xamarin.Android
 
 This article explains how to export the [Syncfusion Xamarin.Android SfChart](https://help.syncfusion.com/xamarin-android/sfchart/getting-started) as an image. 
 
