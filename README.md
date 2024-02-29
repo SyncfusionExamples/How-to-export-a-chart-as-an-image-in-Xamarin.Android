@@ -64,7 +64,7 @@ In order to save the image in Android, you have to enable the permission in the 
 
 ```
 
-# See Also
+## See Also
 
 [How to export chart to PDF in Xamarin.Android](https://www.syncfusion.com/kb/9370/how-to-export-chart-to-pdf-in-xamarin-android)
 
